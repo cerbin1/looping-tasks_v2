@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Tasks from './components/Tasks'
 
 function App() {
     return (
         <div className="App">
-            <h1>Working</h1>
+            <Tasks />
         </div>
     );
 }
