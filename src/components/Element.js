@@ -4,8 +4,8 @@ import React from "react";
 const Element = (props) => {
 
     return <div>
-        <p style={{color: props.isClicked ? 'green' : 'red'}}
-           onClick={() => props.setElementClicked(props.index)}>{props.name}</p>
+        <button className={props.isClicked ? 'btn btn-block btn-success' : 'btn btn-block btn-danger'}
+                onClick={() => props.setElementClicked(props.index)}>{props.name}</button>
     </div>;
 };
 
