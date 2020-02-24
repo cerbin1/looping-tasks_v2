@@ -7,6 +7,7 @@ class Tasks extends Component {
             [
                 {
                     name: "Organizacja notatek",
+                    links: null,
                     elements: [
                         {name: "Docs Quick", isClicked: false},
                         {name: "Telefon notatki", isClicked: false},
@@ -16,8 +17,8 @@ class Tasks extends Component {
                 },
                 {
                     name: "Backup Soft",
+                    links: {name: "Google backup", link: "Google https://takeout.google.com/settings/takeout"},
                     elements: [
-                        {name: "Google https://takeout.google.com/settings/takeout", isClicked: false},
                         {name: "Google Calendar", isClicked: false},
                         {name: "Google Chrome (Bookmarks)", isClicked: false},
                         {name: "Google Drive (Notes)", isClicked: false},
@@ -25,8 +26,8 @@ class Tasks extends Component {
                 },
                 {
                     name: "Backup Hard",
+                    links: {name: "Google backup", link: "Google https://takeout.google.com/settings/takeout"},
                     elements: [
-                        {name: "Google https://takeout.google.com/settings/takeout", isClicked: false},
                         {name: "OneNote cały notatnik jako doc", isClicked: false},
                         {name: "Folder Documents (Ubuntu)", isClicked: false},
                         {name: "Folder Dane (Dysk D)", isClicked: false},
@@ -44,7 +45,7 @@ class Tasks extends Component {
     render() {
         return <div>
             {this.state.tasks.map((task, i) => {
-                return <Task key={i} name={task.name} elements={task.elements}/>
+                return <Task key={i} name={task.name} elements={task.elements} links={task.links}/>
             })}
         </div>
     }
