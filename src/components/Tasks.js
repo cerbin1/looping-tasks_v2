@@ -43,7 +43,7 @@ class Tasks extends Component {
     };
 
     render() {
-        return <div>
+        return <div className="container">
             {this.state.tasks.map((task, i) => {
                 return <Task key={i} name={task.name} elements={task.elements} links={task.links}/>
             })}

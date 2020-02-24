@@ -23,14 +23,18 @@ class Task extends Component {
     render() {
         return (
             <div>
-                <h1 style={{color: this.allElementsClicked() ? 'green' : 'red'}}>{this.state.name}</h1>
-                {this.state.links != null ?
+                <div className="row">
+                    <div className="col-xl-10 offset-1 text-center">
+                        <h1 style={{color: this.allElementsClicked() ? 'green' : 'red'}}>{this.state.name}</h1>
+                    </div>
+                </div>
+                {this.state.links == null ? null :
                     <div className="row">
                         <div className="col-xl-10 offset-1 text-center alert alert-primary">
                             <a className="alert-link" rel="noopener noreferrer" target="_blank"
                                href={this.state.links.link}>{this.state.links.name}</a>
                         </div>
-                    </div> : null
+                    </div>
                 }
                 <div className="row">
                     <div className="btn-group-vertical col-xl-10 offset-1">
