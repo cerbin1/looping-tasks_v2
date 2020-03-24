@@ -17,7 +17,7 @@ class Tasks extends Component {
                 },
                 {
                     name: "Backup Soft",
-                    links: {name: "Google backup", link: "Google https://takeout.google.com/settings/takeout"},
+                    links: {name: "Google backup", link: "https://takeout.google.com/settings/takeout"},
                     elements: [
                         {name: "Google Calendar", isClicked: false},
                         {name: "Google Chrome (Bookmarks)", isClicked: false},
@@ -26,7 +26,7 @@ class Tasks extends Component {
                 },
                 {
                     name: "Backup Hard",
-                    links: {name: "Google backup", link: "Google https://takeout.google.com/settings/takeout"},
+                    links: {name: "Google backup", link: "https://takeout.google.com/settings/takeout"},
                     elements: [
                         {name: "OneNote cały notatnik jako doc", isClicked: false},
                         {name: "Folder Documents (Ubuntu)", isClicked: false},
