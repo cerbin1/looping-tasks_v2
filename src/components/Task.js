@@ -5,7 +5,11 @@ import Element from "./Element";
 class Task extends Component {
     constructor(props) {
         super(props);
-        this.state = props;
+        this.state = {
+            name: props.name,
+            elements: props.elements,
+            links: props.links
+        };
     }
 
     setElementClicked = (index) => {
@@ -31,8 +35,10 @@ class Task extends Component {
                 {this.state.links == null ? null :
                     <div className="row">
                         <div className="col-xl-10 offset-1 text-center alert alert-primary">
-                            <a className="alert-link" rel="noopener noreferrer" target="_blank"
-                               href={this.state.links.link}>{this.state.links.name}</a>
+                            {this.state.links.map((element, i) => {
+                                return (<a className="alert-link" target="_blank" rel="noopener noreferrer"
+                                           key={i} href={element.link}>{element.name} || </a>)
+                            })}
                         </div>
                     </div>
                 }
