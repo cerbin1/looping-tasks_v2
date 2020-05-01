@@ -9,12 +9,21 @@ class Tasks extends Component {
         tasks:
             [
                 {
-                    name: "Organizacja notatek",
+                    name: "Porządki",
+                    links: [
+                        {
+                            name: "Quick Notes",
+                            link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.enryj93vpczc"
+                        },
+                        {name: "Google Drive", link: "https://drive.google.com/drive/my-drive"},
+                    ],
                     elements: [
-                        {name: "Docs Quick", isClicked: false},
-                        {name: "Telefon notatki", isClicked: false},
-                        {name: "Todoist Skrzynka odbiorcza", isClicked: false},
-                        {name: "Todoist Skrzynka odbiorcza", isClicked: false},
+                        {name: "Organizacja maila głównego", isClicked: false},
+                        {name: "Organizacja maila prywatnego", isClicked: false},
+                        {name: "Utworzyć taski z Make Notes", isClicked: false},
+                        {name: "Quick Notes", isClicked: false},
+                        {name: "Notatki w telefonie", isClicked: false},
+                        {name: "Google Drive", isClicked: false}
                     ]
                 },
                 {
@@ -48,7 +57,7 @@ class Tasks extends Component {
                         {name: "Prąd", link: "https://logowanie.tauron.pl/"},
                         {name: "PKO", link: "https://www.ipko.pl//"},
                         {name: "mBank", link: "https://online.mbank.pl/pl/Login"},
-                        {name: "Alior", link: "https://https://system.aliorbank.pl/sign-in/"},
+                        {name: "Alior", link: "https://system.aliorbank.pl/sign-in"},
                         {
                             name: "Sheet",
                             link: "https://docs.google.com/spreadsheets/d/1RS4WCPEqILRgId3JlfXZuRd_f6kWZtYg1hzfhM8Y4n8/edit#gid=963549029"
@@ -74,6 +83,7 @@ class Tasks extends Component {
         let task1 = tasks[0];
         let task2 = tasks[1];
         let task3 = tasks[2];
+        let task4 = tasks[3];
         return <div className="container">
             <Router>
                 <div>
@@ -82,6 +92,7 @@ class Tasks extends Component {
                         <h1><Link to="/task1">{task1.name}</Link></h1>
                         <h1><Link to="/task2">{task2.name}</Link></h1>
                         <h1><Link to="/task3">{task3.name}</Link></h1>
+                        <h1><Link to="/task4">{task4.name}</Link></h1>
                     </nav>
 
                     <Switch>
@@ -102,6 +113,11 @@ class Tasks extends Component {
                             <Task name={task3.name}
                                   elements={task3.elements}
                                   links={task3.links}/>}>
+                        </Route>
+                        <Route exact path="/task4" component={() =>
+                            <Task name={task4.name}
+                                  elements={task4.elements}
+                                  links={task4.links}/>}>
                         </Route>
                     </Switch>
                 </div>
