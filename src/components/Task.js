@@ -27,11 +27,7 @@ class Task extends Component {
     render() {
         return (
             <div>
-                <div className="row">
-                    <div className="col-xl-10 offset-1 text-center">
-                        <h1 style={{color: this.allElementsClicked() ? 'green' : 'red'}}>{this.state.name}</h1>
-                    </div>
-                </div>
+                <hr/>
                 {this.state.links == null ? null :
                     <div className="row">
                         <div className="col-xl-10 offset-1 text-center alert alert-primary">
@@ -51,6 +47,11 @@ class Task extends Component {
                                             name={element.name}
                                             isClicked={element.isClicked}/>
                         })}
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col-xl-10 offset-1 text-center">
+                        <h1 style={{color: this.allElementsClicked() ? 'green' : 'red'}}>{this.state.name}</h1>
                     </div>
                 </div>
             </div>

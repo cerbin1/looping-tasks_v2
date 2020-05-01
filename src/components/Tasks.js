@@ -1,8 +1,11 @@
 import React, {Component} from 'react'
 import Task from "./Task";
+import {BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom'
 
 class Tasks extends Component {
     state = {
+        homePage: 'Strona główna',
+        homePageText: 'Wybierz zadanie do zrobienia',
         tasks:
             [
                 {
@@ -67,9 +70,38 @@ class Tasks extends Component {
 
     render() {
         return <div className="container">
-            {this.state.tasks.map((task, i) => {
-                return <Task key={i} name={task.name} elements={task.elements} links={task.links}/>
-            })}
+
+            <Router>
+                <div>
+                    <nav>
+                        <h1><Link to="/">Strona główna</Link></h1>
+                        <h1><Link to="/task0">{this.state.tasks[0].name}</Link></h1>
+                        <h1><Link to="/task1">{this.state.tasks[1].name}</Link></h1>
+                        <h1><Link to="/task2">{this.state.tasks[2].name}</Link></h1>
+                    </nav>
+
+                    <Switch>
+                        <Route exact path="/">
+                            <p>Wybierz zadanie do zrobienia</p>
+                        </Route>
+                        <Route exact path="/task0" component={() =>
+                            <Task name={this.state.tasks[0].name}
+                                  elements={this.state.tasks[0].elements}
+                                  links={this.state.tasks[0].links}/>}>
+                        </Route>
+                        <Route exact path="/task1" component={() =>
+                            <Task name={this.state.tasks[1].name}
+                                  elements={this.state.tasks[1].elements}
+                                  links={this.state.tasks[1].links}/>}>
+                        </Route>
+                        <Route exact path="/task2" component={() =>
+                            <Task name={this.state.tasks[2].name}
+                                  elements={this.state.tasks[2].elements}
+                                  links={this.state.tasks[2].links}/>}>
+                        </Route>
+                    </Switch>
+                </div>
+            </Router>
         </div>
     }
 }
