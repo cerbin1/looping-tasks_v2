@@ -69,35 +69,39 @@ class Tasks extends Component {
     };
 
     render() {
+        let state = this.state;
+        let tasks = state.tasks;
+        let task1 = tasks[0];
+        let task2 = tasks[1];
+        let task3 = tasks[2];
         return <div className="container">
-
             <Router>
                 <div>
                     <nav>
-                        <h1><Link to="/">Strona główna</Link></h1>
-                        <h1><Link to="/task0">{this.state.tasks[0].name}</Link></h1>
-                        <h1><Link to="/task1">{this.state.tasks[1].name}</Link></h1>
-                        <h1><Link to="/task2">{this.state.tasks[2].name}</Link></h1>
+                        <h1><Link to="/">{state.homePage}</Link></h1>
+                        <h1><Link to="/task1">{task1.name}</Link></h1>
+                        <h1><Link to="/task2">{task2.name}</Link></h1>
+                        <h1><Link to="/task3">{task3.name}</Link></h1>
                     </nav>
 
                     <Switch>
                         <Route exact path="/">
-                            <p>Wybierz zadanie do zrobienia</p>
-                        </Route>
-                        <Route exact path="/task0" component={() =>
-                            <Task name={this.state.tasks[0].name}
-                                  elements={this.state.tasks[0].elements}
-                                  links={this.state.tasks[0].links}/>}>
+                            <p>{state.homePageText}</p>
                         </Route>
                         <Route exact path="/task1" component={() =>
-                            <Task name={this.state.tasks[1].name}
-                                  elements={this.state.tasks[1].elements}
-                                  links={this.state.tasks[1].links}/>}>
+                            <Task name={task1.name}
+                                  elements={task1.elements}
+                                  links={task1.links}/>}>
                         </Route>
                         <Route exact path="/task2" component={() =>
-                            <Task name={this.state.tasks[2].name}
-                                  elements={this.state.tasks[2].elements}
-                                  links={this.state.tasks[2].links}/>}>
+                            <Task name={task2.name}
+                                  elements={task2.elements}
+                                  links={task2.links}/>}>
+                        </Route>
+                        <Route exact path="/task3" component={() =>
+                            <Task name={task3.name}
+                                  elements={task3.elements}
+                                  links={task3.links}/>}>
                         </Route>
                     </Switch>
                 </div>
