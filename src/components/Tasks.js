@@ -64,11 +64,14 @@ class Tasks extends Component {
                         }
                     ],
                     elements: [
-                        {name: "Przygotować docsa na następny miesiąc", isClicked: false},
-                        {name: "Zapisać aktualną kwotę w następnym miesiącu", isClicked: false},
-                        {name: "Zapisać pracę biorąc pod uwagę godziny", isClicked: false},
+                        {
+                            name: "Przygotować docsa na następny miesiąc (Skopiować całe 3 kolumny, zmienić nazwę miesiąca)",
+                            isClicked: false
+                        },
                         {name: "Opłacić media, abonamenty i kredyty i pobrać faktury", isClicked: false},
                         {name: "Opłacić X", isClicked: false},
+                        {name: "Zapisać aktualną kwotę w następnym miesiącu", isClicked: false},
+                        {name: "Zapisać pracę biorąc pod uwagę godziny", isClicked: false},
                         {name: "Uzupełnić kwoty z apki", isClicked: false},
                         {name: "Uzupełnić resztę kwot w arkuszu", isClicked: false},
                         {name: "Przeanalizować ostatni miesiąc", isClicked: false}
