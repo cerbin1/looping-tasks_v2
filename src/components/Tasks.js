@@ -9,6 +9,7 @@ class Tasks extends Component {
         tasks:
             [
                 {
+                    id: 'task1',
                     name: "Porządki",
                     links: [
                         {
@@ -27,6 +28,7 @@ class Tasks extends Component {
                     ]
                 },
                 {
+                    id: 'task2',
                     name: "Backup Soft",
                     links: [{name: "Google backup", link: "https://takeout.google.com/settings/takeout"}],
                     elements: [
@@ -36,6 +38,7 @@ class Tasks extends Component {
                     ]
                 },
                 {
+                    id: 'task3',
                     name: "Backup Hard",
                     links: [{name: "Google backup", link: "https://takeout.google.com/settings/takeout"}],
                     elements: [
@@ -51,6 +54,7 @@ class Tasks extends Component {
                     ]
                 },
                 {
+                    id: 'task4',
                     name: "Biznes",
                     links: [
                         {name: "Gaz", link: "https://ebok.pgnig.pl/"},
@@ -81,47 +85,33 @@ class Tasks extends Component {
     };
 
     render() {
-        let state = this.state;
-        let tasks = state.tasks;
-        let task1 = tasks[0];
-        let task2 = tasks[1];
-        let task3 = tasks[2];
-        let task4 = tasks[3];
         return <div className="container">
             <Router>
                 <div>
                     <nav>
-                        <h1><Link to="/">{state.homePage}</Link></h1>
-                        <h1><Link to="/task1">{task1.name}</Link></h1>
-                        <h1><Link to="/task2">{task2.name}</Link></h1>
-                        <h1><Link to="/task3">{task3.name}</Link></h1>
-                        <h1><Link to="/task4">{task4.name}</Link></h1>
+                        <h1><Link to="/">{this.state.homePage}</Link></h1>
+                        {this.state.tasks.map(task => {
+                                return (
+                                    <h1 key={task.id}><Link to={'/' + task.id}>{task.name}</Link></h1>
+                                )
+                            }
+                        )}
                     </nav>
 
                     <Switch>
                         <Route exact path="/">
-                            <p>{state.homePageText}</p>
+                            <p>{this.state.homePageText}</p>
                         </Route>
-                        <Route exact path="/task1" component={() =>
-                            <Task name={task1.name}
-                                  elements={task1.elements}
-                                  links={task1.links}/>}>
-                        </Route>
-                        <Route exact path="/task2" component={() =>
-                            <Task name={task2.name}
-                                  elements={task2.elements}
-                                  links={task2.links}/>}>
-                        </Route>
-                        <Route exact path="/task3" component={() =>
-                            <Task name={task3.name}
-                                  elements={task3.elements}
-                                  links={task3.links}/>}>
-                        </Route>
-                        <Route exact path="/task4" component={() =>
-                            <Task name={task4.name}
-                                  elements={task4.elements}
-                                  links={task4.links}/>}>
-                        </Route>
+
+                        {this.state.tasks.map(task => {
+                                return (
+                                    <Route key={task.id} exact path={'/' + task.id} component={() =>
+                                        <Task name={task.name}
+                                              elements={task.elements}
+                                              links={task.links}/>}>
+                                    </Route>)
+                            }
+                        )}
                     </Switch>
                 </div>
             </Router>
