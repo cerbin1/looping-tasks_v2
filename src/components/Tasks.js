@@ -55,7 +55,7 @@ class Tasks extends Component {
                 },
                 {
                     id: 'task4',
-                    name: "Biznes",
+                    name: "Biznes nowy miesiąc",
                     links: [
                         {name: "Gaz", link: "https://ebok.pgnig.pl/"},
                         {name: "Prąd", link: "https://logowanie.tauron.pl/"},
@@ -80,6 +80,64 @@ class Tasks extends Component {
                         {name: "Uzupełnić resztę kwot w arkuszu", isClicked: false},
                         {name: "Przeanalizować ostatni miesiąc", isClicked: false}
                     ]
+                },
+                {
+                    id: 'task5',
+                    name: "TODO nowy miesiąc",
+                    links: [
+                        {
+                            name: "Sheets",
+                            link: "https://docs.google.com/spreadsheets/d/1RS4WCPEqILRgId3JlfXZuRd_f6kWZtYg1hzfhM8Y4n8/edit#gid=82903271/"
+                        },
+                    ],
+                    elements: [
+                        {
+                            name: "Przygotować docsa na następny miesiąc (Skopiować całe 3 kolumny, zmienić nazwę miesiąca)",
+                            isClicked: false
+                        }, {name: "Skopiować dwie pierwsze kolumny", isClicked: false},
+                        {name: "Zmienić nazwę miesiąca", isClicked: false},
+                        {name: "Zmienić kolor drugiej kolumny na czarny", isClicked: false},
+                        {name: "Insert daty i ustawienie na 1 dzień", isClicked: false},
+                        {name: "Pogrubić dzień i zastosować skrót ", isClicked: false},
+                        {name: "Zaznaczyć pierwszy dzien -> Format -> Text rotation -> Rotate Up", isClicked: false},
+                        {name: "Przeciągnąć dni do końca miesiąca", isClicked: false},
+                        {name: "Wypełnić wzorcem wszystkie dni", isClicked: false},
+                        {name: "Skopiować nie zaznaczony checkbox z któregoś pola", isClicked: false},
+                        {name: "Zaznaczyć z ctrl wszystkie puste pola", isClicked: false},
+                        {
+                            name: "Wkleić wcześniej zaznaczonego checkboxa (nie wstawić, trzeba skopiować z innego pola checkbox i dopiero skopiować)",
+                            isClicked: false
+                        },
+                        {name: "Formatowanie dat i checkboxów", isClicked: false},
+                        {name: "Ukryć wiersze z czynności za poprzedni miesiąc", isClicked: false},
+                        {name: "Ustawić kolor kolumny ze wzorem na biały", isClicked: false},
+                        {
+                            name: "Instrukcje z końca co do formatowania przekopiować niżej żeby nie przeszkadzały",
+                            isClicked: false
+                        },
+                    ]
+                },
+                {
+                    id: 'task6',
+                    name: "Trening nowy miesiąc",
+                    links: [
+                        {
+                            name: "Sheets",
+                            link: "https://docs.google.com/spreadsheets/d/1RS4WCPEqILRgId3JlfXZuRd_f6kWZtYg1hzfhM8Y4n8/edit#gid=568847193/"
+                        },
+                    ],
+                    elements: [
+                        {name: "Wpisać nowy miesiąc i pogrubić", isClicked: false},
+                        {name: "Insert daty i ustawienie na 1 dzień miesiąca", isClicked: false},
+                        {name: "Sformatować datę używając pędzla i daty poprzedniej", isClicked: false},
+                        {name: "Wstawić obok pusty checkbox", isClicked: false},
+                        {name: "Przeciągnąć datę i checkbox do końca miesiąca", isClicked: false},
+                        {name: "Skopiować formuły i pozamieniać zgodnie ze szkicem", isClicked: false},
+                        {name: "Wstawić formułę do dni i przeciągnąć do końca miesiąca", isClicked: false},
+                        {name: "Wstawić formuły zliczające", isClicked: false},
+                        {name: "Skopiować szkic formuł do następnego miesiąca na dół", isClicked: false},
+                        {name: "Szybka analiza miesiąca", isClicked: false},
+                        {name: "Ukryć rekordy z poprzedniego miesiąca", isClicked: false},]
                 },
             ]
     };
