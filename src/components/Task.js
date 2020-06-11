@@ -81,7 +81,7 @@ class Task extends Component {
                 </div>
                 <div className="row">
                     <div className="col-xl-10 offset-1 text-center">
-                        <h1 style={{color: this.allElementsClicked() ? 'green' : 'red'}}>{this.state.name}</h1>
+                        <h2 style={{color: this.allElementsClicked() ? 'green' : 'red'}}>{this.state.name}</h2>
                     </div>
                 </div>
             </div>

@@ -147,10 +147,10 @@ class Tasks extends Component {
             <Router>
                 <div>
                     <nav>
-                        <h1><Link to="/">{this.state.homePage}</Link></h1>
+                        <h2><Link to="/">{this.state.homePage}</Link></h2>
                         {this.state.tasks.map(task => {
                                 return (
-                                    <h1 key={task.id}><Link to={'/' + task.id}>{task.name}</Link></h1>
+                                    <h2 key={task.id}><Link to={'/' + task.id}>{task.name}</Link></h2>
                                 )
                             }
                         )}
