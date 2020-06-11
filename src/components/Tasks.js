@@ -137,7 +137,8 @@ class Tasks extends Component {
                         {name: "Wstawić formuły zliczające", isClicked: false},
                         {name: "Skopiować szkic formuł do następnego miesiąca na dół", isClicked: false},
                         {name: "Szybka analiza miesiąca", isClicked: false},
-                        {name: "Ukryć rekordy z poprzedniego miesiąca", isClicked: false},]
+                        {name: "Ukryć rekordy z poprzedniego miesiąca", isClicked: false},
+                    ]
                 },
             ]
     };
