@@ -140,6 +140,21 @@ class Tasks extends Component {
                         {name: "Ukryć rekordy z poprzedniego miesiąca", isClicked: false},
                     ]
                 },
+                {
+                    id: 'task7',
+                    name: "Comiesięczne czynności",
+                    links: [
+                        {
+                            name: "Docs",
+                            link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.b36bz1pk3gth"
+                        },
+                    ],
+                    elements: [
+                        {name: "Przetestować czujki", isClicked: false},
+                        {name: "Sprawdzić luzy i stan śrub w hulajnodze", isClicked: false},
+                        {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
+                    ]
+                },
             ]
     };
 
