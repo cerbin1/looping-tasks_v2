@@ -92,10 +92,7 @@ class Tasks extends Component {
                         },
                     ],
                     elements: [
-                        {
-                            name: "Przygotować docsa na następny miesiąc (Skopiować całe 3 kolumny, zmienić nazwę miesiąca)",
-                            isClicked: false
-                        }, {name: "Skopiować dwie pierwsze kolumny", isClicked: false},
+                        {name: "Skopiować dwie pierwsze kolumny", isClicked: false},
                         {name: "Zmienić nazwę miesiąca", isClicked: false},
                         {name: "Zmienić kolor drugiej kolumny na czarny", isClicked: false},
                         {name: "Insert daty i ustawienie na 1 dzień", isClicked: false},
