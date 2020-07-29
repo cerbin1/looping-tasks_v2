@@ -149,7 +149,7 @@ class Tasks extends Component {
                     ],
                     elements: [
                         {name: "Przetestować czujki", isClicked: false},
-                        {name: "Sprawdzić luzy i stan śrub w hulajnodze", isClicked: false},
+                        {name: "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki", isClicked: false},
                         {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
                     ]
                 },
