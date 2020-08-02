@@ -32,9 +32,9 @@ class Tasks extends Component {
                     name: "Backup Soft",
                     links: [{name: "Google backup", link: "https://takeout.google.com/settings/takeout"}],
                     elements: [
-                        {name: "Google Calendar", isClicked: false},
-                        {name: "Google Chrome (Bookmarks)", isClicked: false},
-                        {name: "Google Drive (Notes)", isClicked: false},
+                        {name: "[Google] Calendar", isClicked: false},
+                        {name: "[Google] Chrome (Bookmarks)", isClicked: false},
+                        {name: "[Google] Drive (Notes)", isClicked: false},
                     ]
                 },
                 {
@@ -46,11 +46,11 @@ class Tasks extends Component {
                         {name: "Folder Documents (Ubuntu)", isClicked: false},
                         {name: "Folder Dane (Dysk D)", isClicked: false},
                         {name: "Chrome Passwords Export", isClicked: false},
-                        {name: "Google Calendar", isClicked: false},
-                        {name: "Google Chrome (all)", isClicked: false},
-                        {name: "Google Contacts", isClicked: false},
-                        {name: "Google Drive", isClicked: false},
-                        {name: "Google Mail", isClicked: false},
+                        {name: "[Google] Calendar", isClicked: false},
+                        {name: "[Google] Chrome (all)", isClicked: false},
+                        {name: "[Google] Contacts", isClicked: false},
+                        {name: "[Google] Drive", isClicked: false},
+                        {name: "[Google] Mail", isClicked: false},
                     ]
                 },
                 {
@@ -151,6 +151,7 @@ class Tasks extends Component {
                         {name: "Przetestować czujki", isClicked: false},
                         {name: "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki", isClicked: false},
                         {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
+                        {name: "Przebadać się (p i j)", isClicked: false},
                     ]
                 },
             ]
