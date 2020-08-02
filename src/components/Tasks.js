@@ -55,7 +55,7 @@ class Tasks extends Component {
                 },
                 {
                     id: 'task4',
-                    name: "Biznes nowy miesiąc",
+                    name: "Nowy miesiąc: Biznes",
                     links: [
                         {name: "Gaz", link: "https://ebok.pgnig.pl/"},
                         {name: "Prąd", link: "https://logowanie.tauron.pl/"},
@@ -84,7 +84,7 @@ class Tasks extends Component {
                 },
                 {
                     id: 'task5',
-                    name: "TODO nowy miesiąc",
+                    name: "Nowy miesiąc: TODO",
                     links: [
                         {
                             name: "Sheets",
@@ -117,7 +117,7 @@ class Tasks extends Component {
                 },
                 {
                     id: 'task6',
-                    name: "Trening nowy miesiąc",
+                    name: "Nowy miesiąc: Trening",
                     links: [
                         {
                             name: "Sheets",
