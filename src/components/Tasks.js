@@ -73,7 +73,7 @@ class Tasks extends Component {
                             isClicked: false
                         },
                         {name: "Sprawdzić czy zgadza się kwota pracy za ostatni miesiąc z przelewem", isClicked: false},
-                        {name: "Opłacić media, abonamenty i kredyty, pobrać faktury, zapisać kwoty", isClicked: false},
+                        {name: "Opłacić media, abonamenty i kredyty, pobrać faktury i potwierdzenia płatności, zapisać kwoty", isClicked: false},
                         {name: "Opłacić X", isClicked: false},
                         {name: "Zapisać pracę biorąc pod uwagę godziny", isClicked: false},
                         {name: "Uzupełnić kwoty z apki", isClicked: false},
