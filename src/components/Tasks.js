@@ -148,10 +148,11 @@ class Tasks extends Component {
                         },
                     ],
                     elements: [
+                        {name: "Przebadać się (p i j)", isClicked: false},
                         {name: "Przetestować czujki", isClicked: false},
                         {name: "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki", isClicked: false},
                         {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
-                        {name: "Przebadać się (p i j)", isClicked: false},
+                        {name: "Organizacja Temp Docs", isClicked: false},
                     ]
                 },
             ]
