@@ -146,6 +146,10 @@ class Tasks extends Component {
                             name: "Docs",
                             link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.b36bz1pk3gth"
                         },
+                        {
+                            name: "Sheets Szekle",
+                            link: "https://docs.google.com/spreadsheets/d/1u4sHO-mkux9d0xELt6XRo3IVpdoQrDb0cvN-U4ZQZ-E/edit#gid=0"
+                        },
                     ],
                     elements: [
                         {name: "Przebadać się (p i j)", isClicked: false},
@@ -153,6 +157,7 @@ class Tasks extends Component {
                         {name: "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki", isClicked: false},
                         {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
                         {name: "Organizacja Temp Docs", isClicked: false},
+                        {name: "Aktualizacja arkusza z cyklicznymi płatnościami", isClicked: false},
                     ]
                 },
             ]
