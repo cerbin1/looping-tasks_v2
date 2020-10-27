@@ -78,7 +78,8 @@ class Tasks extends Component {
                         {name: "Zapisać pracę biorąc pod uwagę godziny", isClicked: false},
                         {name: "Uzupełnić kwoty z apki", isClicked: false},
                         {name: "Uzupełnić resztę kwot w arkuszu", isClicked: false},
-                        {name: "Zapisać aktualną kwotę w następnym miesiącu po zapłaceniu faktur i opłat za ten miesiąc", isClicked: false},
+                        {name: "Zaktualizować kwoty w arkuszu Oszczędności po opłaceniu wszystkiego na ten miesiąc", isClicked: false},
+                        {name: "Zapisać zsumowaną kwotę na start kolejnego miesiąca", isClicked: false},
                         {name: "Przeanalizować ostatni miesiąc", isClicked: false}
                     ]
                 },
