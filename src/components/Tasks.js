@@ -159,6 +159,7 @@ class Tasks extends Component {
                         {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
                         {name: "Organizacja Temp Docs", isClicked: false},
                         {name: "Aktualizacja arkusza z cyklicznymi płatnościami", isClicked: false},
+                        {name: "Zaaplikować sól do zmywarki", isClicked: false},
                     ]
                 },
             ]
