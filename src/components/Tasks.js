@@ -35,6 +35,7 @@ class Tasks extends Component {
                         {name: "[Google] Calendar", isClicked: false},
                         {name: "[Google] Chrome (Bookmarks)", isClicked: false},
                         {name: "[Google] Drive (Notes)", isClicked: false},
+                        {name: "Skopiować folder Documents -> _Backup_Soft_", isClicked: false},
                     ]
                 },
                 {
