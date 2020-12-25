@@ -109,7 +109,7 @@ class Tasks extends Component {
                             isClicked: false
                         },
                         {name: "Uruchomić automatyzację do pythona (alias a1)", isClicked: false},
-                        {name: "Formatowanie dat i checkboxów", isClicked: false},
+                        {name: "Wstawić formatowanie dat i checkboxów", isClicked: false},
                         {name: "Ukryć wiersze z czynności za poprzedni miesiąc", isClicked: false},
                         {name: "Ustawić kolor kolumny ze wzorem na biały", isClicked: false},
                         {
@@ -133,9 +133,8 @@ class Tasks extends Component {
                         {name: "Sformatować datę używając pędzla i daty poprzedniej", isClicked: false},
                         {name: "Wstawić obok pusty checkbox", isClicked: false},
                         {name: "Przeciągnąć datę i checkbox do końca miesiąca", isClicked: false},
-                        {name: "Skopiować formuły i pozamieniać zgodnie ze szkicem", isClicked: false},
-                        {name: "Wstawić formułę do dni i przeciągnąć do końca miesiąca", isClicked: false},
                         {name: "Uruchomić automatyzację do pythona (alias a2)", isClicked: false},
+                        {name: "Wstawić formułę do dni i przeciągnąć do końca miesiąca", isClicked: false},
                         {name: "Wstawić formuły zliczające", isClicked: false},
                         {name: "Skopiować szkic formuł do następnego miesiąca na dół", isClicked: false},
                         {name: "Szybka analiza miesiąca", isClicked: false},
