@@ -108,6 +108,7 @@ class Tasks extends Component {
                             name: "Wkleić wcześniej zaznaczonego checkboxa (nie wstawić, trzeba skopiować z innego pola checkbox i dopiero skopiować)",
                             isClicked: false
                         },
+                        {name: "Uruchomić automatyzację do pythona (alias a1)", isClicked: false},
                         {name: "Formatowanie dat i checkboxów", isClicked: false},
                         {name: "Ukryć wiersze z czynności za poprzedni miesiąc", isClicked: false},
                         {name: "Ustawić kolor kolumny ze wzorem na biały", isClicked: false},
