@@ -135,6 +135,7 @@ class Tasks extends Component {
                         {name: "Przeciągnąć datę i checkbox do końca miesiąca", isClicked: false},
                         {name: "Skopiować formuły i pozamieniać zgodnie ze szkicem", isClicked: false},
                         {name: "Wstawić formułę do dni i przeciągnąć do końca miesiąca", isClicked: false},
+                        {name: "Uruchomić automatyzację do pythona (alias a2)", isClicked: false},
                         {name: "Wstawić formuły zliczające", isClicked: false},
                         {name: "Skopiować szkic formuł do następnego miesiąca na dół", isClicked: false},
                         {name: "Szybka analiza miesiąca", isClicked: false},
