@@ -70,8 +70,7 @@ class Tasks extends Component {
                     ],
                     elements: [
                         {
-                            name: "Przygotować docsa na następny miesiąc (Skopiować całe 3 kolumny, zmienić nazwę miesiąca)",
-                            isClicked: false
+                            name: "Przywrócić czarny kolor kolejnej kolumnie",
                         },
                         {name: "Sprawdzić czy zgadza się kwota pracy za ostatni miesiąc z przelewem", isClicked: false},
                         {name: "Opłacić media, abonamenty i kredyty, pobrać faktury i potwierdzenia płatności, zapisać kwoty", isClicked: false},
