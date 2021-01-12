@@ -157,10 +157,11 @@ class Tasks extends Component {
                         {name: "Przebadać się (p i j)", isClicked: false},
                         {name: "Przetestować czujki", isClicked: false},
                         {name: "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki", isClicked: false},
+                        {name: "Zaaplikować sól do zmywarki", isClicked: false},
                         {name: "Kupić potrzebne rzeczy z docsa", isClicked: false},
                         {name: "Organizacja Temp Docs", isClicked: false},
                         {name: "Aktualizacja arkusza z cyklicznymi płatnościami", isClicked: false},
-                        {name: "Zaaplikować sól do zmywarki", isClicked: false},
+                        {name: "Zaktualizować listę znajomych (todoist i hierarchia onenote)", isClicked: false},
                     ]
                 },
             ]
