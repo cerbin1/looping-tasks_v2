@@ -160,6 +160,7 @@ class Data {
                 "Przetestować czujki",
                 "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
                 "Zaaplikować sól do zmywarki",
+                "Przemyć szafki z kurzu",
                 "Kupić potrzebne rzeczy z docsa",
                 "Organizacja Temp Docs",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
