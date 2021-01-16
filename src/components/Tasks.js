@@ -267,7 +267,8 @@ const ids = [0, 1]
             <Router>
                 <div>
                     <nav>
-                        <h2><Link to="/">{this.state.homePage}</Link></h2>
+                        <h1><Link to="/">{this.state.homePage}</Link></h1>
+                        <hr/>
                         {this.state.tasks.map(task => {
                                 return (
                                     <h2 key={task.id}><Link to={'/' + task.id}>{task.name}</Link></h2>

@@ -63,7 +63,7 @@ class Task extends Component {
                         <div className="col-xl-10 offset-1 text-center alert alert-primary">
                             {this.state.links.map((element, i) => {
                                 return (<a className="alert-link" target="_blank" rel="noopener noreferrer"
-                                           key={i} href={element.link}>{element.name} || </a>)
+                                           key={i} href={element.link}>{element.name} {i < this.state.links.length - 1  ? '||' : ''} </a>)
                             })}
                         </div>
                     </div>
