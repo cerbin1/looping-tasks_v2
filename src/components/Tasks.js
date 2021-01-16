@@ -61,7 +61,7 @@ const ids = [0, 1]
             [
                 { id: 0,
                         name: "Porządki",
-                        links: [
+                        links: [// TODO zamiast tego mozna po prostu zrobic asd[0].links
                             {
                                 name: "Quick Notes",
                                 link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.enryj93vpczc"
