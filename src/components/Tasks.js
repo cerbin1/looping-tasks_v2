@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import Task from "./Task";
-import {BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom'
+import {HashRouter as Router, Link, Route, Switch} from 'react-router-dom'
 import TaskData from '../Data'
 
 class Tasks extends Component {
