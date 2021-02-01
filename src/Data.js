@@ -164,7 +164,7 @@ class Data {
                 "Kupić potrzebne rzeczy z docsa",
                 "Organizacja Temp Docs",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
-                "Zaktualizować listę znajomych (todoist i hierarchia onenote)",
+                "Zaktualizować listę (todoist i onenote)",
             ]
         },
     ]
