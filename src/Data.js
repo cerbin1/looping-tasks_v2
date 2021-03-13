@@ -164,10 +164,11 @@ class Data {
                 "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
                 "Zaaplikować sól do zmywarki",
                 "Przemyć szafki z kurzu",
+                "Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę"
                 "Kupić potrzebne rzeczy z docsa",
                 "Organizacja Temp Docs",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
-                "Zaktualizować listę znajomych (todoist i hierarchia onenote)",
+                "Zaktualizować listę (todoist i onenote)",
             ]
         },
     ]
