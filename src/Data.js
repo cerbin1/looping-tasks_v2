@@ -106,12 +106,11 @@ class Data {
                 },
             ],
             elements: [
-                "Skopiować dwie pierwsze i wyciąć ostatnią kolumnę z poprzdniego miesiąca",
+                "Skopiować dwie pierwsze kolumny",
                 "Zmienić nazwę miesiąca",
                 "Zmienić kolor drugiej kolumny na czarny",
                 "Insert daty i ustawienie na 1 dzień",
-                "Pogrubić dzień i zastosować skrót ",
-                "Zaznaczyć pierwszy dzien -> Format -> Text rotation -> Rotate Up",
+                "Zaznaczyć pierwszy dzień, pogrubić, zastosować skrót daty i sformatować: Format -> Text rotation -> Rotate Up",
                 "Przeciągnąć dni do końca miesiąca",
                 "Przeciągnąć wzór do końca miesiąca",
                 "Skopiować nie zaznaczony checkbox z któregoś pola",
@@ -141,7 +140,6 @@ class Data {
                 "Uruchomić automatyzację do pythona (alias a2)",
                 "Wstawić formułę do dni i przeciągnąć do końca miesiąca",
                 "Wstawić formuły zliczające",
-                "Skopiować szkic formuł do następnego miesiąca na dół",
                 "Szybka analiza miesiąca",
                 "Ukryć rekordy z poprzedniego miesiąca",
             ]
