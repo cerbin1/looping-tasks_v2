@@ -48,7 +48,6 @@ class Data {
                 "OneNote cały notatnik jako doc",
                 "Folder Documents (Ubuntu)",
                 "Folder Dane (Dysk D)",
-                "Chrome Passwords Export",
                 "[Google] Calendar",
                 "[Google] Chrome (all)",
                 "[Google] Contacts",
