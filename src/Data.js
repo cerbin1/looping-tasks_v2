@@ -61,10 +61,6 @@ class Data {
             name: "Nowy miesiąc: Biznes",
             links: [
                 {
-                    name: "Gaz",
-                    link: "https://ebok.pgnig.pl/"
-                },
-                {
                     name: "Prąd",
                     link: "https://logowanie.tauron.pl/"
                 },
