@@ -33,7 +33,9 @@ class Data {
                 "[Google] Calendar",
                 "[Google] Chrome (Bookmarks)",
                 "[Google] Drive (Notes)",
-                "Skopiować folder Documents -> _Backup_Soft_",
+                "Uruchomić automatyzację (alias a3)",
+                "Wypakować backup googla do folderu",
+                "Wyciąć cały folder na zewnętrzny dysk",
             ]
         },
         {
