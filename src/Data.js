@@ -137,6 +137,7 @@ class Data {
                 "Uruchomić automatyzację do pythona (alias a2)",
                 "Wstawić formułę do dni i przeciągnąć do końca miesiąca",
                 "Wstawić formuły zliczające",
+                "Zapisać z kartki czasy orbitreka",
                 "Szybka analiza miesiąca",
                 "Ukryć rekordy z poprzedniego miesiąca",
             ]
