@@ -151,7 +151,7 @@ class Data {
                 },
                 {
                     name: "Sheets Szekle",
-                    link: "https://docs.google.com/spreadsheets/d/1u4sHO-mkux9d0xELt6XRo3IVpdoQrDb0cvN-U4ZQZ-E/edit#gid=0"
+                    link: "https://docs.google.com/spreadsheets/d/1u4sHO-mkux9d0xELt6XRo3IVpdoQrDb0cvN-U4ZQZ-E/edit#gid=931574800"
                 },
                 {
                     name: "Suplementy",
