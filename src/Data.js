@@ -163,6 +163,7 @@ class Data {
                 "Przemyć szafki z kurzu",
                 "Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
                 "Kupić potrzebne rzeczy z docsa",
+                "Kupić suplementy z listy jak brakuje któregoś w zapasie",
                 "Organizacja Temp Docs",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
                 "Zaktualizować listę (todoist i onenote)",
