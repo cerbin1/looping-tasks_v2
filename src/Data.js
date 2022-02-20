@@ -146,16 +146,16 @@ class Data {
             name: "Comiesięczne czynności",
             links: [
                 {
-                    name: "Docs",
-                    link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.b36bz1pk3gth"
-                },
-                {
                     name: "Sheets Szekle",
                     link: "https://docs.google.com/spreadsheets/d/1u4sHO-mkux9d0xELt6XRo3IVpdoQrDb0cvN-U4ZQZ-E/edit#gid=931574800"
                 },
                 {
                     name: "Suplementy",
                     link: "https://docs.google.com/document/d/1yf_NXQFbrckFQIFxovBRABWAQzCjH1oV_rsjF_ciAhY/edit#bookmark=id.bqn4jhn6wite"
+                },
+                {
+                    name: "Docs",
+                    link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.b36bz1pk3gth"
                 },
             ],
             elements: [
@@ -166,12 +166,12 @@ class Data {
                 "Zaaplikować sól do zmywarki",
                 "Przemyć szafki z kurzu",
                 "Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
-                "Kupić potrzebne rzeczy z docsa (link 2)",
-                "Organizacja Temp Docs (link 1)",
+                "Kupić potrzebne rzeczy z docsa (link 1)",
+                "Kupić suple z listy jak brakuje w zapasach (link 2)",
+                "Organizacja Temp Docs (link 3)",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
                 "Zaktualizować listę (todoist i onenote)",
                 "Fryzjer - zarezerwować wizytę",
-                "Uzupełnić braki w suplementach (link 3)",
             ]
         },
     ]
