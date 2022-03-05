@@ -85,7 +85,7 @@ class Data {
                 "Przywrócić czarny kolor kolejnej kolumnie",
                 "Sprawdzić czy zgadza się kwota pracy za ostatni miesiąc z przelewem",
                 "Opłacić media, abonamenty i kredyty, pobrać faktury i potwierdzenia płatności, zapisać kwoty",
-                "Opłacić X",
+                "Przekazać X na pomoc albo przekazać na coś dla R",
                 "Zapisać pracę biorąc pod uwagę godziny",
                 "Uzupełnić kwoty z apki",
                 "Uzupełnić resztę kwot w arkuszu",
