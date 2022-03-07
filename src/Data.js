@@ -172,6 +172,7 @@ class Data {
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
                 "Zaktualizować listę (todoist i onenote)",
                 "Fryzjer - zarezerwować wizytę",
+                "Pamiętnik uzupełnić",
             ]
         },
     ]
