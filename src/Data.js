@@ -171,7 +171,6 @@ class Data {
                 "Organizacja Temp Docs (link 3)",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
                 "Zaktualizować listę (todoist i onenote)",
-                "Fryzjer - zarezerwować wizytę",
                 "Pamiętnik uzupełnić",
             ]
         },
