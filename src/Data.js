@@ -150,8 +150,8 @@ class Data {
                     link: "https://docs.google.com/spreadsheets/d/1u4sHO-mkux9d0xELt6XRo3IVpdoQrDb0cvN-U4ZQZ-E/edit#gid=931574800"
                 },
                 {
-                    name: "Suplementy",
-                    link: "https://docs.google.com/document/d/1yf_NXQFbrckFQIFxovBRABWAQzCjH1oV_rsjF_ciAhY/edit#bookmark=id.bqn4jhn6wite"
+                    name: "Zapasy",
+                    link: "https://keep.google.com/u/0/#LIST/1znx8gChS7FADNMPx1f41echWRGtwrI9Z_w4qoZHy-QYVOdWp-3cldAn2gGERcw"
                 },
                 {
                     name: "Docs",
