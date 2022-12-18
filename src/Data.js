@@ -162,7 +162,7 @@ class Data {
                 "Przetestować czujki",
                 "Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
                 "Zrobić wszystkie punkty z konserwacji orbitreka z instrukcji",
-                "Zaaplikować sól do zmywarki",
+                "Zaaplikować sól do zmywarki (1 kg/do pełna)",
                 "Przemyć szafki z kurzu",
                 "Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
                 "Kupić potrzebne rzeczy z docsa (link 1)",
