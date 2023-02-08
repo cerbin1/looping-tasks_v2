@@ -84,7 +84,7 @@ class Data {
             elements: [
                 "Zapisać wszystkie dochody",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
-                "Zapłacić czynsz na następny miesiąc i wpisać do arkusza kwotę",
+                "Zapłacić czynsz za następny miesiąc i wpisać do arkusza kwotę",
                 "Opłacić wydatki stałe (media, abonamenty, kredyty). Pobrać faktury i potwierdzenia i zapisać kwoty",
                 "Przekazać X na pomoc albo przekazać na coś dla R",
                 "Uzupełnić wydatki zmienne z apki",
