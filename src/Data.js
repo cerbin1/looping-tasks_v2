@@ -47,7 +47,10 @@ class Data {
                 },
             ],
             elements: [
-                "OneNote cały notatnik jako doc",
+                "Przygotować dysk ssd do backupu",
+                "Uruchomić automatyzację (alias a4)",
+                "Wyciąć folder na dysk",
+                "Skopiować cały onenote notatnik do pliku doc",
                 "Folder Documents (Ubuntu)",
                 "Folder Dane (Dysk D)",
                 "[Google] Calendar",
@@ -55,6 +58,7 @@ class Data {
                 "[Google] Contacts",
                 "[Google] Drive",
                 "[Google] Mail",
+                "Wypakować backup google do folderu",
             ]
         },
         {
