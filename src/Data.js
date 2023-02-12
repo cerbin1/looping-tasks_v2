@@ -169,7 +169,7 @@ class Data {
                 "Zaaplikować sól do zmywarki (1 kg/do pełna)",
                 "Przemyć szafki z kurzu",
                 "[w sezonie] Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
-                "Kupić potrzebne rzeczy z docsa (link 1)",
+                "Kupić potrzebne rzeczy z docsa ze sklepów online albo zrobić taski do kupna lokalnie (link 1)",
                 "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
                 "Organizacja Temp Docs (link 3)",
                 "Zaktualizować listę (todoist i onenote)",
