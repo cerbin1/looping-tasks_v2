@@ -90,7 +90,7 @@ class Data {
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
                 "Zapłacić czynsz za następny miesiąc i wpisać do arkusza kwotę",
                 "Opłacić wydatki stałe (media, abonamenty, kredyty). Pobrać faktury i potwierdzenia i zapisać kwoty",
-                "Przekazać X na pomoc albo przekazać na coś dla R",
+                "Przelać kwotę z arkusza W&S na pomoc albo przekazać na coś dla R",
                 "Uzupełnić wydatki zmienne z apki",
                 "Zaktualizować kwoty w arkuszu Oszczędności po opłaceniu wszystkiego",
                 "Zapisać zsumowaną kwotę na start kolejnego miesiąca",
