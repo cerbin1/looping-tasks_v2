@@ -120,7 +120,6 @@ class Data {
                 "Wstawić formatowanie dat i checkboxów (kolory: green, cornflower blue, red, 2x green, red)",
                 "Ukryć wiersze z czynności za poprzedni miesiąc",
                 "Ustawić kolor kolumny ze wzorem na biały",
-                "Instrukcje z końca co do formatowania przekopiować niżej żeby nie przeszkadzały",
             ]
         },
         {
