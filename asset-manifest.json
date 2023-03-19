@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/looping-tasks_v2/static/css/main.525ad691.css",
-    "main.js": "/looping-tasks_v2/static/js/main.b1d7ef32.js",
+    "main.js": "/looping-tasks_v2/static/js/main.a92f63fc.js",
     "index.html": "/looping-tasks_v2/index.html",
     "main.525ad691.css.map": "/looping-tasks_v2/static/css/main.525ad691.css.map",
-    "main.b1d7ef32.js.map": "/looping-tasks_v2/static/js/main.b1d7ef32.js.map"
+    "main.a92f63fc.js.map": "/looping-tasks_v2/static/js/main.a92f63fc.js.map"
   },
   "entrypoints": [
     "static/css/main.525ad691.css",
-    "static/js/main.b1d7ef32.js"
+    "static/js/main.a92f63fc.js"
   ]
 }
