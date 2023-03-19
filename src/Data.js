@@ -166,7 +166,7 @@ class Data {
                 "[w sezonie] Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
                 "Zrobić wszystkie punkty z konserwacji orbitreka z instrukcji",
                 "Zaaplikować sól do zmywarki (1 kg/do pełna)",
-                "Przemyć szafki z kurzu",
+                "Włączyć odświeżacz na maksa i poodkurzać dmuchawą wszystkie pomieszczenia",
                 "[w sezonie] Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
                 "Kupić potrzebne rzeczy z docsa ze sklepów online albo zrobić taski do kupna lokalnie (link 1)",
                 "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
