@@ -77,10 +77,6 @@ class Data {
                     link: "https://online.mbank.pl/pl/Login"
                 },
                 {
-                    name: "Alior",
-                    link: "https://system.aliorbank.pl/sign-in"
-                },
-                {
                     name: "Sheet",
                     link: "https://docs.google.com/spreadsheets/d/1RS4WCPEqILRgId3JlfXZuRd_f6kWZtYg1hzfhM8Y4n8/edit#gid=963549029"
                 },
