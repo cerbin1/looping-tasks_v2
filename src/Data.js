@@ -166,6 +166,7 @@ class Data {
                 "Kupić potrzebne rzeczy z docsa ze sklepów online albo zrobić taski do kupna lokalnie (link 1)",
                 "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
                 "Organizacja Temp Docs (link 3)",
+                "Zapisać zdarzenia do arkusza % jeśli czegoś nie zapisałem",
                 "Zaktualizować listę (todoist i onenote)",
                 "Pamiętnik uzupełnić",
             ]
