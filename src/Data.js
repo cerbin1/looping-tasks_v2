@@ -152,6 +152,10 @@ class Data {
                     link: "https://keep.google.com/u/0/#LIST/1znx8gChS7FADNMPx1f41echWRGtwrI9Z_w4qoZHy-QYVOdWp-3cldAn2gGERcw"
                 },
                 {
+                    name: "Sprzedaż",
+                    link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#bookmark=id.5k59wwenmz3y"
+                },
+                {
                     name: "Docs",
                     link: "https://docs.google.com/document/d/1lKqrQYRtmsOP9UGHxnAQOOw01lfaMSjDvesVK4l-8wo/edit#heading=h.b36bz1pk3gth"
                 },
@@ -165,7 +169,8 @@ class Data {
                 "[w sezonie] Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
                 "Kupić potrzebne rzeczy z docsa ze sklepów online albo zrobić taski do kupna lokalnie (link 1)",
                 "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
-                "Organizacja Temp Docs (link 3)",
+                "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 3)",
+                "Organizacja Temp Docs (link 4)",
                 "Zapisać zdarzenia do arkusza % jeśli czegoś nie zapisałem",
                 "Zaktualizować listę (todoist i onenote)",
                 "Pamiętnik uzupełnić",
