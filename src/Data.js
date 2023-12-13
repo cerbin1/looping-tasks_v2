@@ -17,7 +17,7 @@ class Data {
                 "Organizacja maila prywatnego",
                 "Utworzyć taski z Make Notes",
                 "Quick Notes",
-                "Notatki w telefonie",
+                "Organizacja notatek w keeps",
                 "Google Drive",
             ]
         },
