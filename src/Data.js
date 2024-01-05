@@ -50,7 +50,7 @@ class Data {
                 "Przygotować dysk ssd do backupu",
                 "Uruchomić automatyzację (alias a4)",
                 "Wyciąć folder na dysk",
-                "Skopiować cały onenote notatnik do pliku doc",
+                "Skopiować cały Evernote notatnik do pliku doc",
                 "Folder Documents (Ubuntu)",
                 "Folder Dane (Dysk D)",
                 "[Google] Calendar",
