@@ -172,7 +172,7 @@ class Data {
                 "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 3)",
                 "Organizacja Temp Docs (link 4)",
                 "Zapisać zdarzenia do arkusza % jeśli czegoś nie zapisałem",
-                "Zaktualizować listę (todoist i onenote)",
+                "Zaktualizować listę (todoist i evernote)",
                 "Pamiętnik uzupełnić",
             ]
         },
