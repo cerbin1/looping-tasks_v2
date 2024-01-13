@@ -171,7 +171,7 @@ class Data {
                 "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
                 "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 3)",
                 "Organizacja Temp Docs (link 4)",
-                "Zapisać zdarzenia do arkusza % jeśli czegoś nie zapisałem",
+                "Zapisać zdarzenia do arkusza % i M jeśli czegoś nie zapisałem",
                 "Zaktualizować listę (todoist i evernote)",
                 "Pamiętnik uzupełnić",
             ]
