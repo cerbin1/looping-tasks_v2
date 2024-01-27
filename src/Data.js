@@ -161,7 +161,8 @@ class Data {
                 },
             ],
             elements: [
-                "Przebadać się (p i j)",
+                "Przebadać j",
+                "Przebadać p (pobieżnie czy nic nie boli, nie krwawi + te do monitorowania porównać)",
                 "Przetestować czujki",
                 "[w sezonie] Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
                 "Zrobić wszystkie punkty z konserwacji orbitreka z instrukcji",
