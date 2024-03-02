@@ -57,6 +57,7 @@ class Data {
                 "[Google] Chrome (all)",
                 "[Google] Contacts",
                 "[Google] Drive",
+                "[Google] Keep",
                 "[Google] Mail",
                 "Wypakować backup google do folderu",
             ]
