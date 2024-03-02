@@ -168,7 +168,7 @@ class Data {
                 "Zrobić wszystkie punkty z konserwacji orbitreka z instrukcji",
                 "Zaaplikować sól do zmywarki (1 kg/do pełna)",
                 "[w sezonie] Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
-                "Kupić potrzebne rzeczy z docsa ze sklepów online albo zrobić taski do kupna lokalnie (link 1)",
+                "Kupić potrzebne rzeczy z arkusza ze sklepów online albo zrobić taski do kupna lokalnie. Sprawdzić czy nie ma fajnych ofert na nowe/używane rzeczy na olx/lokalnie (link 1)",
                 "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
                 "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 3)",
                 "Organizacja Temp Docs (link 4)",
