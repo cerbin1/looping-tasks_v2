@@ -136,7 +136,6 @@ class Data {
                 "Uruchomić automatyzację do pythona (alias a2)",
                 "Wstawić formułę do dni i przeciągnąć do końca miesiąca",
                 "Wstawić formuły zliczające",
-                "Zapisać z kartki czasy orbitreka",
                 "Szybka analiza miesiąca",
                 "Ukryć rekordy z poprzedniego miesiąca",
             ]
@@ -166,7 +165,6 @@ class Data {
                 "Przebadać p (pobieżnie czy nic nie boli, nie krwawi + te do monitorowania porównać)",
                 "Przetestować czujki",
                 "[w sezonie] Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
-                "Zrobić wszystkie punkty z konserwacji orbitreka z instrukcji",
                 "Zaaplikować sól do zmywarki (1 kg/do pełna)",
                 "[w sezonie] Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
                 "Kupić potrzebne rzeczy z arkusza ze sklepów online albo zrobić taski do kupna lokalnie. Sprawdzić czy nie ma fajnych ofert na nowe/używane rzeczy na olx/lokalnie (link 1)",
