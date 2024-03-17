@@ -86,7 +86,7 @@ class Data {
                 "Zapisać wszystkie dochody",
                 "Aktualizacja arkusza z cyklicznymi płatnościami",
                 "Opłacić wydatki stałe (media, abonamenty, kredyty). Pobrać faktury i potwierdzenia i zapisać kwoty",
-                "Przelać kwotę z arkusza W&S na osobne konto",
+                "Przelać kwotę z arkusza W&S na osobne konto (odjąć wcześniej kwotę z apki z kategorii Pomoc",
                 "Uzupełnić wydatki zmienne z apki",
                 "Zaktualizować kwoty w arkuszu Oszczędności po opłaceniu wszystkiego",
                 "Zapisać zsumowaną kwotę na start kolejnego miesiąca",
