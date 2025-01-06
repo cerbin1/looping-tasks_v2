@@ -174,6 +174,7 @@ class Data {
         "Organizacja Temp Docs (link 4)",
         "Zapisać zdarzenia do arkusza M jeśli czegoś nie zapisałem",
         "Zaktualizować listę (todoist i evernote)",
+        "Dziennik głodu podsumowanie miesiąca",
         "Zaktualizować keeps K + B",
         "Pamiętnik uzupełnić",
       ],
