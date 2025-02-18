@@ -145,10 +145,6 @@ class Data {
       name: "Comiesięczne czynności",
       links: [
         {
-          name: "Sheets Szekle",
-          link: "https://docs.google.com/spreadsheets/d/1u4sHO-mkux9d0xELt6XRo3IVpdoQrDb0cvN-U4ZQZ-E/edit#gid=931574800",
-        },
-        {
           name: "Zapasy",
           link: "https://keep.google.com/u/0/#LIST/1znx8gChS7FADNMPx1f41echWRGtwrI9Z_w4qoZHy-QYVOdWp-3cldAn2gGERcw",
         },
@@ -168,10 +164,10 @@ class Data {
         "[w sezonie] Sprawdzić luzy i stan śrub w hulajnodze, dopompować dętki",
         "Zaaplikować sól do zmywarki (1 kg/do pełna)",
         "[w sezonie] Odkurzyć laser w odświeżaczu i wymienić bawełnianą owijkę",
-        "Kupić potrzebne rzeczy z arkusza ze sklepów online albo zrobić taski do kupna lokalnie. Sprawdzić czy nie ma fajnych ofert na nowe/używane rzeczy na olx/lokalnie (link 1)",
-        "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 2)",
-        "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 3)",
-        "Organizacja Temp Docs (link 4)",
+        "Kupić potrzebne rzeczy z arkusza Szekle ze sklepów online albo zrobić taski do kupna lokalnie. Sprawdzić czy nie ma fajnych ofert na nowe/używane rzeczy na olx/lokalnie (otworzyć wcześniej przygotowane linki z ofertami)",
+        "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 1)",
+        "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 2)",
+        "Organizacja Temp Docs (link 3)",
         "Zapisać zdarzenia do arkusza M jeśli czegoś nie zapisałem",
         "Zaktualizować listę (todoist i evernote)",
         "Dziennik głodu podsumowanie miesiąca",
