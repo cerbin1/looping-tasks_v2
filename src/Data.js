@@ -85,6 +85,7 @@ class Data {
       ],
       elements: [
         "Zapisać wszystkie dochody",
+        "Zapisać w dochodach cashback z Zen (Historia -> Statystyki -> typ: cashback -> czas: ostatnie miesiąc)",
         "Aktualizacja arkusza z cyklicznymi płatnościami",
         "Opłacić wydatki stałe (media, abonamenty, kredyty). Pobrać faktury i potwierdzenia i zapisać kwoty",
         "Uzupełnić wydatki zmienne z apki",
