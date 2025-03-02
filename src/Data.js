@@ -89,7 +89,6 @@ class Data {
         "Aktualizacja arkusza z cyklicznymi płatnościami",
         "Opłacić wydatki stałe (media, abonamenty, kredyty). Pobrać faktury i potwierdzenia i zapisać kwoty",
         "Uzupełnić wydatki zmienne z apki",
-        "Przelać kwotę z arkusza W&S na osobne konto (odjąć wcześniej kwotę z apki z kategorii Pomoc",
         "Zaktualizować kwoty w arkuszu Oszczędności po opłaceniu wszystkiego",
         "Zapisać zsumowaną kwotę na start kolejnego miesiąca",
         "Opłacić czynsz za nowy miesiąc i wpisać kwotę",
