@@ -168,7 +168,6 @@ class Data {
         "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 1)",
         "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 2)",
         "Organizacja Temp Docs (link 3)",
-        "Zapisać zdarzenia do arkusza M jeśli czegoś nie zapisałem",
         "Zaktualizować listę (todoist i evernote)",
         "Dziennik głodu podsumowanie miesiąca",
         "Zaktualizować keeps K + B",
