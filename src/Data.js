@@ -58,6 +58,7 @@ class Data {
         "Wyeksportować plik z hasłami (link 2)",
         "Folder Documents (Linux)",
         "Folder Dane (Dysk D)",
+        "Pobrać i skopiować najnowszą kopię zapasową stąd http://homeassistant.local:8123/config/backup/backups?type=automatic",
         "[Google backup] Calendar",
         "[Google backup] Chrome (all)",
         "[Google backup] Contacts",
