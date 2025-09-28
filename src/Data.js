@@ -93,7 +93,6 @@ class Data {
         "Upewnić się, że przyszły wszystkie przelewy za Spotify",
         "Zaktualizować kwoty w arkuszu Finanse -> Inwestycje, oszczędności, po opłaceniu wszystkiego",
         "Zapisać zsumowaną kwotę na start kolejnego miesiąca",
-        "Opłacić czynsz za nowy miesiąc i wpisać kwotę",
         "Przeanalizować ostatni miesiąc",
       ],
     },
