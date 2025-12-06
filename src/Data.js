@@ -86,6 +86,7 @@ class Data {
       elements: [
         "Zapisać wszystkie dochody (PKO historia wpływów)",
         "Zapisać w dochodach Oszczędności z Zen (Historia -> Statystyki -> Typ: Cashback -> Czas: Ostatni miesiąc)",
+        "Sprawdzić, czy wszyscy zapłacili za Spotify - zaktualizować arkusz",
         "Aktualizacja arkusza Finanse -> Cykliczne",
         "Opłacić wydatki stałe (prąd, abonamenty, kredyty). Pobrać i zapisać dokumenty, zapisać kwoty",
         "Uzupełnić wydatki zmienne z apki",
