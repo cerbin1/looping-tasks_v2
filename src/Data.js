@@ -50,6 +50,10 @@ class Data {
           name: "Bitwarden sejf eksport",
           link: "https://vault.bitwarden.com/#/tools/export",
         },
+        {
+          name: "homeassistant",
+          link: "http://homeassistant.local:8123/config/backup/backups?type=automatic",
+        },
       ],
       elements: [
         "Przygotować dysk zewnętrzny SSD",
@@ -58,6 +62,7 @@ class Data {
         "Wyeksportować plik z hasłami (link 2)",
         "Folder Documents (Linux)",
         "Folder Dane (Dysk D)",
+        "Pobrać i skopiować najnowszą kopię zapasową z homaassistant link",
         "[Google backup] Calendar",
         "[Google backup] Chrome (all)",
         "[Google backup] Contacts",
@@ -93,7 +98,6 @@ class Data {
         "Upewnić się, że przyszły wszystkie przelewy za Spotify",
         "Zaktualizować kwoty w arkuszu Finanse -> Inwestycje, oszczędności, po opłaceniu wszystkiego",
         "Zapisać zsumowaną kwotę na start kolejnego miesiąca",
-        "Opłacić czynsz za nowy miesiąc i wpisać kwotę",
         "Przeanalizować ostatni miesiąc",
       ],
     },
