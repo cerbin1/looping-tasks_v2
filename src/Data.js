@@ -174,7 +174,7 @@ class Data {
         "Kupić suplementy/kosmetyki/inne rzeczy, które się skończyły (link 1)",
         "Sprzedaż - wystawić nowe rzeczy, zaktualizować ceny jak długo się coś nie sprzedaje (link 2)",
         "Organizacja Temp Docs (link 3)",
-        "Zaktualizować listę (todoist i arkusz)",
+        "Zaktualizować listę bliskich (todoist - urodziny i arkusz Bliscy)",
         "Dziennik podsumowanie miesiąca",
         "Uzupełnić keeps K + B",
         "Uzupełnić pamiętnik",
