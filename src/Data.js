@@ -95,7 +95,6 @@ class Data {
         "Aktualizacja arkusza Finanse -> Cykliczne",
         "Opłacić wydatki stałe (prąd, abonamenty, kredyty). Pobrać i zapisać dokumenty, zapisać kwoty",
         "Uzupełnić wydatki zmienne z apki",
-        "Upewnić się, że przyszły wszystkie przelewy za Spotify",
         "Zaktualizować kwoty w arkuszu Finanse -> Inwestycje, oszczędności, po opłaceniu wszystkiego",
         "Zapisać zsumowaną kwotę na start kolejnego miesiąca",
         "Przeanalizować ostatni miesiąc",
