@@ -121,7 +121,7 @@ class Data {
         "Zaznaczyć z Ctrl wszystkie puste pola",
         "Wkleić checkbox",
         "Uruchomić automatyzację (alias a1)",
-        "Wstawić formatowanie dat i checkboxów (kolory: 1. green, 2. cornflower blue, 3. red, 4. green, 5. green, 6. red)",
+        "Wstawić formatowanie dni i checkboxów",
         "Ukryć wiersze z czynności z poprzedniego miesiąca",
         "Ustawić kolor kolumny ze wzorem na biały",
       ],
