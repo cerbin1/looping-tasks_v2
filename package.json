@@ -4,7 +4,7 @@
   "homepage": "https://cerbin1.github.io/looping-tasks_v2/",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^5.0.0",
