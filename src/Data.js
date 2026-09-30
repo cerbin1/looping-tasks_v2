@@ -63,6 +63,7 @@ class Data {
         "Folder Documents",
         "Folder Dane",
         "Pobrać i skopiować najnowszą kopię zapasową z homaassistant link",
+        "Uruchomić alias n8_backup i wyciąć folder n8n na dysk",
         "[Google backup] Calendar",
         "[Google backup] Chrome (all)",
         "[Google backup] Contacts",
